@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "643584258055",
+    "project_id": "examen2-danp",
+    "storage_bucket": "examen2-danp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643584258055:android:bd7c4bb06f8e5d1d3bbaa2",
+        "android_client_info": {
+          "package_name": "com.example.lab08_danp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643584258055-rkthvl7ffg9bid1ev1hurou1jg5mtsjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1AWZJqq6mXhv1bcaJyY6PTpy7yhRKXcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643584258055-rkthvl7ffg9bid1ev1hurou1jg5mtsjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643584258055:android:93f02f03bea81f0a3bbaa2",
+        "android_client_info": {
+          "package_name": "com.labs_danp.examen2_danp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643584258055-rkthvl7ffg9bid1ev1hurou1jg5mtsjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1AWZJqq6mXhv1bcaJyY6PTpy7yhRKXcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643584258055-rkthvl7ffg9bid1ev1hurou1jg5mtsjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
